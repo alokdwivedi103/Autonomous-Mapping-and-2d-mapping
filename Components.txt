@@ -1,0 +1,8 @@
+Hardware components required for the project are:
+
+1. Ultrasonic Distance Sensor HC-SR04
+2. DC motor (generic)
+3. Motor Driver Shield
+4. Digital Compass(HMC5883L)
+5. Bluetooth Module
+6. Arduino Leonardo/Uno
